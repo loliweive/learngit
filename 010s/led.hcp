@@ -1,0 +1,35 @@
+[Project]
+Project=HC-ICE
+[File Count]
+Count=6
+[Project Files]
+File0=HC18P010S.INC
+File1=KEY.INC
+File2=MAIN.ASM
+File3=REG.INC
+File4=SLEEP.INC
+File5=SUB.INC
+[Settings]
+Device=HC18P010A
+ConfigBitValue0=52
+ConfigBitValue1=63
+ConfigBitValue2=0
+ConfigBitValue3=208
+Output=.
+PostBuild=0
+PostBuildCommand=
+[Files]
+File0=E:\项目\开发中\S7-按键LED\010S\MAIN.ASM|3 26 1298 26 674
+File1=E:\项目\开发中\S7-按键LED\010S\KEY.INC|1 130 1241 130 754
+File2=E:\项目\开发中\S7-按键LED\010S\REG.INC|1 52 1324 52 700
+File3=E:\项目\开发中\S7-按键LED\010S\SUB.INC|1 0 1268 0 644
+File4=E:\项目\开发中\S7-按键LED\010S\SLEEP.INC|1 156 1267 156 780
+OpenFileCounts=5
+[Break]
+Count=0
+[Watch0]
+Count=0
+[Watch1]
+Count=0
+[Watch2]
+Count=0
